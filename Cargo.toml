@@ -1,5 +1,5 @@
 [package]
-name = "TUM-Satzung"
+name = "tum-satzung"
 version = "0.1.0"
 authors = ["lars"]
 edition = "2018"
